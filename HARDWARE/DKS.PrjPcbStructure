@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Current_Voltage_Sensor.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=Current_Voltage_Sensor.SchDoc|FileName=Driver.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Current_Voltage_Sensor.SchDoc|FileName=Filter_Load.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=Current_Voltage_Sensor.SchDoc|FileName=IGBT.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Current_Voltage_Sensor.SchDoc|FileName=MCU.SchDoc|SheetNumber=6
+Record=NoMainPathDocument|SourceDocument=Current_Voltage_Sensor.SchDoc|FileName=Power_Supply.schdoc|SheetNumber=1

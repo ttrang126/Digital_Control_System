@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=OUT1 Pin=JP3-1
+Removed Pin From Net: NetName=OUT2 Pin=JP3-2
+Added Pin To Net: NetName=IP1+ Pin=JP3-1
+Added Pin To Net: NetName=IP2+ Pin=JP3-2
+Added Room: Name=Driver
