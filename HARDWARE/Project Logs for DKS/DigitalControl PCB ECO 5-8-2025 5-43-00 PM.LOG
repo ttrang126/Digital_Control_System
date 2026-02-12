@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=24V Pin=C1-1
+Removed Pin From Net: NetName=24V Pin=U1-1
+Added Component: Designator=JDC(DC0)
+Add component (AddParameter): Name = "Value"; Value = "Jac DC"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC2-1
+Add Pin To Net: Unknown Pin: Pin IC2-2
+Add Pin To Net: Unknown Pin: Pin IC2-3
+Add Pin To Net: Unknown Pin: Pin IC2-4
+Add Pin To Net: Unknown Pin: Pin IC2-7
+Add Pin To Net: Unknown Pin: Pin IC2-8
+Add Pin To Net: Unknown Pin: Pin IC3-1
+Add Pin To Net: Unknown Pin: Pin IC3-2
+Add Pin To Net: Unknown Pin: Pin IC3-3
+Add Pin To Net: Unknown Pin: Pin IC3-4
+Add Pin To Net: Unknown Pin: Pin IC3-7
+Add Pin To Net: Unknown Pin: Pin IC3-8
+Added Pin To Net: NetName=GND Pin=JDC-2
+Add Pin To Net: Unknown Pin: Pin U5-1
+Add Pin To Net: Unknown Pin: Pin U5-2
+Add Pin To Net: Unknown Pin: Pin U5-3
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U6-1
+Add Pin To Net: Unknown Pin: Pin U6-2
+Add Pin To Net: Unknown Pin: Pin U6-3
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U7-1
+Add Pin To Net: Unknown Pin: Pin U7-2
+Add Pin To Net: Unknown Pin: Pin U7-3
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=JDC-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-1
+Added Net: Name=NetC1_1
+Added Member To Class: ClassName=Power_Supply Member=Component JDC Jac DC
+Added Room: Name=Current_Voltage_Sensor
+Added Room: Name=MCU
+Added Room: Name=Power_Supply
