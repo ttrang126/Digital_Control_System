@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=Arduino? Old Footprint=ARDUINO_A000066 New Footprint=Arduino UNO R3
+Added Pin To Net: NetName=GND Pin=Arduino?-GND
+Added Pin To Net: NetName=GND Pin=Arduino?-GND
+Added Pin To Net: NetName=GND Pin=Arduino?-GND
+Added Pin To Net: NetName=GND Pin=Arduino?-GND
+Added Pin To Net: NetName=GND Pin=Arduino?-GND
+Added Pin To Net: NetName=GND Pin=Arduino?-GND
+Added Pin To Net: NetName=LI3 Pin=Arduino?-~3
+Added Pin To Net: NetName=HI3 Pin=Arduino?-~5
+Added Pin To Net: NetName=LI2 Pin=Arduino?-~6
+Added Pin To Net: NetName=HI2 Pin=Arduino?-~9
+Added Pin To Net: NetName=LI1 Pin=Arduino?-~10
+Added Pin To Net: NetName=HI1 Pin=Arduino?-~11
+Add Pin To Net: Unknown Pin: Pin U5-5
+Add Pin To Net: Unknown Pin: Pin U5-6
+Add Pin To Net: Unknown Pin: Pin U6-5
+Add Pin To Net: Unknown Pin: Pin U6-6
+Add Pin To Net: Unknown Pin: Pin U7-5
+Add Pin To Net: Unknown Pin: Pin U7-6
+Added Room: Name=Current_Voltage_Sensor
+Added Room: Name=Driver
+Added Room: Name=Filter_Load
+Added Room: Name=IGBT
+Added Room: Name=MCU
+Added Room: Name=Power_Supply
